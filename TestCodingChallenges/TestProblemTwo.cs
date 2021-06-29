@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CodingChallenges;
+using PostcodeParser;
 
-namespace TestCodingChallenges
+namespace TestPostcodeParser
 {
     [TestClass]
     public class TestProblemTwo

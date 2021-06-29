@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodingChallenges\CodingChallenges.csproj" />
+    <ProjectReference Include="..\CodingChallenges\PostcodeParser.csproj" />
   </ItemGroup>
 
 </Project>

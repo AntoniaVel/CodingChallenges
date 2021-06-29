@@ -1,15 +1,11 @@
 ﻿using System;
 
-namespace CodingChallenges
+namespace PostcodeParser
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Problem 1: FizzBuzz
-            var problemOne = new ProblemOne();
-            problemOne.PrintNumbers();
-
             // Problem 2: Postcode parser
             var problemTwo = new ProblemTwo
             {
@@ -17,6 +13,5 @@ namespace CodingChallenges
             };
             Console.WriteLine(problemTwo.PostCodeParser());
         }
-
     }
 }

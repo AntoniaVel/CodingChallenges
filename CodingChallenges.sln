@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenges", "CodingChallenges\CodingChallenges.csproj", "{B76FFC33-1AB8-4928-9D30-D9EAF4596720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostcodeParser", "CodingChallenges\PostcodeParser.csproj", "{B76FFC33-1AB8-4928-9D30-D9EAF4596720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCodingChallenges", "TestCodingChallenges\TestCodingChallenges.csproj", "{D26CF0D1-565C-4E69-9884-E7C04F51989C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPostcodeParser", "TestCodingChallenges\TestPostcodeParser.csproj", "{D26CF0D1-565C-4E69-9884-E7C04F51989C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
